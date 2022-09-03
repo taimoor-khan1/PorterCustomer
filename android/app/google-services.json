@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559674016382",
+    "project_id": "portercustomer-d8ee0",
+    "storage_bucket": "portercustomer-d8ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559674016382:android:4e80f0e10f296744690e2f",
+        "android_client_info": {
+          "package_name": "com.portercustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559674016382-t5pqqernp3q796fcq2ufumveahki01mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSfm3TzTJUfXjTzR461hyO6BSqeK96wmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559674016382-t5pqqernp3q796fcq2ufumveahki01mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
